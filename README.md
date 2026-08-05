@@ -1,4 +1,4 @@
-~~# Hi, I'm CoolStar 👋
+# Hi, I'm CoolStar 👋
 
 **AI Application Engineer · Java Backend · Agent Runtime & RAG**
 AI 应用开发工程师，5 年经验（含实习），目前 focus 在 Agent Runtime、RAG 与企业级 LLM 应用落地。
@@ -44,4 +44,4 @@ AI 应用开发工程师，5 年经验（含实习），目前 focus 在 Agent R
 ## 📫 Contact / 联系
 
 - 求职方向：AI 应用开发工程师
-- 欢迎在 Issue / Discussion 里交流 Agent 与 RAG 的工程问题~~
+- 欢迎在 Issue / Discussion 里交流 Agent 与 RAG 的工程问题
