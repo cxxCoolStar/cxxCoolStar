@@ -1,7 +1,7 @@
 # Hi, I'm CoolStar 👋
 
 **AI Application Engineer · Java Backend · Agent Runtime & RAG**
-AI 应用开发工程师，5 年经验（含实习），目前 focus 在 Agent Runtime、RAG 与企业级 LLM 应用落地。
+AI 应用开发工程师，5 年经验，目前 focus 在 Agent Runtime、RAG 与企业级 LLM 应用落地。
 
 ## 🔭 What I'm working on / 目前在做什么
 
@@ -11,7 +11,7 @@ AI 应用开发工程师，5 年经验（含实习），目前 focus 在 Agent R
 
 ## 📖 Source Code Reading / 源码研读
 
-长期研读热门 Agent 项目的核心实现，并把设计经验应用到自己的工程中：OpenClaw · Hermes Agent · Kimi Code · FastClaw · ClawX
+长期研读热门 Agent 项目的核心实现，并把设计经验应用到自己的工程中：OpenClaw · Hermes Agent · Kimi Code · FastClaw · OpenCode等等
 
 > 习惯从源码里拆架构：ReAct Loop 怎么做循环保护和预算控制、任务队列怎么做公平调度、沙箱怎么做隔离——这些笔记逐步沉淀在本账号的仓库里。
 
