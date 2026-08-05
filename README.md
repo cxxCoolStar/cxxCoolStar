@@ -36,9 +36,7 @@ AI 应用开发工程师，5 年经验（含实习），目前 focus 在 Agent R
 
 ## 📊 GitHub Stats
 
-<p>
- ![GitHub Stats](https://stats.justsong.cn/api/github?username=cxxCoolStar&theme=dark)
-</p>
+![GitHub Stats](https://stats.justsong.cn/api/github?username=cxxCoolStar&theme=dark)
 
 ## 📫 Contact / 联系
 
