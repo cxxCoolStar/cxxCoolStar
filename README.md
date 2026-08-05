@@ -36,9 +36,10 @@ AI 应用开发工程师，5 年经验（含实习），目前 focus 在 Agent R
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://stats.justsong.cn/api/github?username=cxxCoolStar&theme=dark)
+<img src="https://stats.justsong.cn/api/github?username=cxxCoolStar&theme=dark" alt="GitHub Stats" />
 
 ## 📫 Contact / 联系
 
 - 求职方向：AI 应用开发工程师
+- 邮箱：1848505943@qq.com
 - 欢迎在 Issue / Discussion 里交流 Agent 与 RAG 的工程问题
