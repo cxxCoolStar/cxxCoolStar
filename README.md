@@ -37,8 +37,7 @@ AI 应用开发工程师，5 年经验（含实习），目前 focus 在 Agent R
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cxxCoolStar&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxxCoolStar&layout=compact&hide_border=true" />
+ ![GitHub Stats](https://stats.justsong.cn/api/github?username=cxxCoolStar&theme=dark)
 </p>
 
 ## 📫 Contact / 联系
