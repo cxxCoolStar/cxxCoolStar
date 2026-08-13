@@ -6,8 +6,6 @@ AI 应用开发工程师，5 年经验，目前 focus 在 Agent Runtime、RAG �
 ## 🔭 What I'm working on / 目前在做什么
 
 - **Agent Runtime**：基于 Java 21 + Spring Boot 的企业级 Agent 运行时 —— ReAct 工具循环、会话级 FIFO 并发调度、工具冲突串行化、租约与 fencing token、Docker 沙箱执行、Agent Eval 评测体系
-- **Agentic RAG 平台**：文档入库 Pipeline、查询改写、树形意图识别、多通道召回、RRF + Rerank 融合精排、模型路由与三态熔断、SSE 流式与分布式公平限流、离线评测与全链路 Trace
-- 持续关注 Coding Agent、上下文工程、Memory、Skill、MCP、沙箱执行等方向
 
 ## 📖 Source Code Reading / 源码研读
 
