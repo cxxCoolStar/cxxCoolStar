@@ -16,7 +16,7 @@ AI 应用开发工程师，5 年经验，目前 focus 在 Agent Runtime、RAG �
 ## 🤝 Open Source Contributions / 开源贡献
 
 向以下项目提交过代码（PR 已合并）：
-- [hermes-agent]([https://github.com/qodo-ai/pr-agent](https://github.com/NousResearch/hermes-agent))（~235k Stars）
+- [hermes-agent](https://github.com/NousResearch/hermes-agent)（~235k Stars）
 - [PR-Agent](https://github.com/qodo-ai/pr-agent)（~12k Stars）
 - [fastclaw](https://github.com/fastclaw-ai/fastclaw)（~1.3k Stars）
 - [learn-agents-from-opencode](https://github.com/yexia553/learn-agents-from-opencode)（~470 Stars）
