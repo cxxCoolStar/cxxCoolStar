@@ -1,5 +1,7 @@
 # Hi, I'm CoolStar 👋
 
+## 🛠 Tech Stack / 技术栈
+
 **LLM 应用与 Prompt 工程**：具备 Prompt 版本管理、自动化评测和负样本优化经验，熟练使用 Pydantic Schema、JSON Mode 等方式约束结构化输出；了解多模型动态路由、Token 分级控制和请求级降级。
 
 **RAG 与多模态检索**：熟悉文档切片、Embedding、HNSW、混合检索、Metadata 过滤、Cross-Encoder Rerank 和权重调优等完整链路，具备文本、图片、视频统一检索及素材增强实践。
@@ -18,16 +20,6 @@
 - [fastclaw](https://github.com/fastclaw-ai/fastclaw)（~1.3k Stars）
 - [learn-agents-from-opencode](https://github.com/yexia553/learn-agents-from-opencode)（~470 Stars）
 - [Takin](https://github.com/shulieTech/Takin)（~1.3k Stars）
-
-## 🛠 Tech Stack / 技术栈
-
-**Agent / LLM**：ReAct · Tool Calling · Prompt & Context Engineering · Memory · Skill · MCP · 模型路由与故障切换 · SSE
-
-**RAG**：文档解析与分块 · Embedding · Milvus / pgvector · Elasticsearch BM25 · 多路召回 · RRF · Rerank · 查询改写 · 意图识别 · 离线评测
-
-**Backend**：Java 17/21 · Spring Boot 3 · MyBatis-Plus · 并发编程 · 虚拟线程 · PostgreSQL · Redis · RocketMQ
-
-**Engineering**：Docker · Kubernetes · 多 Pod 部署 · 数据库驱动的运行时配置
 
 ## 📊 GitHub Stats
 
