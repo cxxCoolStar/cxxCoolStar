@@ -1,6 +1,7 @@
 # Hi, I'm CoolStar 👋
 
 **AI Application Engineer · Java Backend · Agent Runtime & RAG**
+
 5 年 Java 后端经验，近 3 年专注企业级 AI 应用开发，能够独立完成从模型接入、知识库检索、Agent 编排到前后端交付的完整链路。具备较强的源码研究和工程落地能力，曾向 hermes-agent（约 235k Stars）、PR-Agent（约 12k Stars）和 fastclaw（约 1.3k Stars）等 AI Agent 项目贡献代码。
 
 LLM 应用与 Prompt 工程：具备 Prompt 版本管理、自动化评测和负样本优化经验，熟练使用 Pydantic Schema、JSON Mode 等方式约束结构化输出；了解多模型动态路由、Token 分级控制和请求级降级。
