@@ -1,17 +1,13 @@
 # Hi, I'm CoolStar 👋
 
 **AI Application Engineer · Java Backend · Agent Runtime & RAG**
-AI 应用开发工程师，5 年经验，目前 focus 在 Agent Runtime、RAG 与企业级 LLM 应用落地。
+5 年 Java 后端经验，近 3 年专注企业级 AI 应用开发，能够独立完成从模型接入、知识库检索、Agent 编排到前后端交付的完整链路。具备较强的源码研究和工程落地能力，曾向 hermes-agent（约 235k Stars）、PR-Agent（约 12k Stars）和 fastclaw（约 1.3k Stars）等 AI Agent 项目贡献代码。
 
-## 🔭 What I'm working on / 目前在做什么
-
-- **Agent Runtime**：基于 Java 21 + Spring Boot 的企业级 Agent 运行时 —— ReAct 工具循环、会话级 FIFO 并发调度、工具冲突串行化、租约与 fencing token、Docker 沙箱执行、Agent Eval 评测体系
-
-## 📖 Source Code Reading / 源码研读
-
-长期研读热门 Agent 项目的核心实现，并把设计经验应用到自己的工程中：OpenClaw · Hermes Agent · Kimi Code · FastClaw · OpenCode等等
-
-> 习惯从源码里拆架构：ReAct Loop 怎么做循环保护和预算控制、任务队列怎么做公平调度、沙箱怎么做隔离——这些笔记逐步沉淀在本账号的仓库里。
+LLM 应用与 Prompt 工程：具备 Prompt 版本管理、自动化评测和负样本优化经验，熟练使用 Pydantic Schema、JSON Mode 等方式约束结构化输出；了解多模型动态路由、Token 分级控制和请求级降级。
+RAG 与多模态检索：熟悉文档切片、Embedding、HNSW、混合检索、Metadata 过滤、Cross-Encoder Rerank 和权重调优等完整链路，具备文本、图片、视频统一检索及素材增强实践。
+Agent 与工作流编排：掌握 Function Calling / Tool Use、ReAct 推理、工具注册、意图拆解和工具结果回注；熟悉 LangGraph / LangChain 的工作流、SubGraph、Checkpointer 和 SSE 流式输出，关注 Memory、Skill、MCP、沙箱和 Agent 评测等运行时治理能力。
+模型推理与交互性能：了解 Prefix Caching、KV Cache 等机制，具备 TTFT 优化、RAG 上下文整理、流式响应和模型资源优先级调度经验；能够使用 ReadableStream + SSE、Markdown 实时解析构建 AI 对话界面和 Agent 工作流可视化。
+全栈交付与基础设施：熟悉 Python、FastAPI、asyncio、Pydantic，以及 Next.js、React、Vue、TypeScript、JavaScript；熟悉 PostgreSQL、向量数据库、Docker、Linux 运维和 Git 工作流，可独立完成 AI 应用从后端接口到前端页面的交付。
 
 ## 🤝 Open Source Contributions / 开源贡献
 
