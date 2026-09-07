@@ -1,9 +1,5 @@
 # Hi, I'm CoolStar 👋
 
-**AI Application Engineer · Java Backend · Agent Runtime & RAG**
-
-5 年 Java 后端经验，近 3 年专注企业级 AI 应用开发，能够独立完成从模型接入、知识库检索、Agent 编排到前后端交付的完整链路。
-
 **LLM 应用与 Prompt 工程**：具备 Prompt 版本管理、自动化评测和负样本优化经验，熟练使用 Pydantic Schema、JSON Mode 等方式约束结构化输出；了解多模型动态路由、Token 分级控制和请求级降级。
 
 **RAG 与多模态检索**：熟悉文档切片、Embedding、HNSW、混合检索、Metadata 过滤、Cross-Encoder Rerank 和权重调优等完整链路，具备文本、图片、视频统一检索及素材增强实践。
