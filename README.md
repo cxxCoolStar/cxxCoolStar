@@ -21,10 +21,6 @@
 - [learn-agents-from-opencode](https://github.com/yexia553/learn-agents-from-opencode)（~470 Stars）
 - [Takin](https://github.com/shulieTech/Takin)（~1.3k Stars）
 
-## 📊 GitHub Stats
-
-<img src="https://stats.justsong.cn/api/github?username=cxxCoolStar&theme=dark" alt="GitHub Stats" />
-
 ## 📫 Contact / 联系
 
 - 求职方向：AI 应用开发工程师
